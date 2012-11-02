@@ -6,7 +6,7 @@ Django Google DFP provides template tags for inserting [Google DFP](http://www.g
 Installation
 ------------
 
-Run `pip install hg+https://bitbucket.org/nextscreenlabs/django-google-dfp`
+Run `pip install django-google-dfp`
 
 Add `google_dpf` to your `INSTALLED_APPS` setting:
 
